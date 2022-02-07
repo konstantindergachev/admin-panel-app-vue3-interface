@@ -9,7 +9,7 @@ The admin-panel-app-vue3 interface is an example of single page application. It 
 # Step 1 Clone the repo
 
 ```bash
-git@github.com:konstantindergachev/admin-panel-app-vue3-interface.git
+git clone git@github.com:konstantindergachev/admin-panel-app-vue3-interface.git
 ```
 
 # Step 2 Install the dependencies
